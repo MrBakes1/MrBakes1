@@ -1,4 +1,4 @@
-![Welcome](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZyNXhlNnZqdmEzb2h5dDZwOW9hMmlnMzRuMDE3cnUybXN5cjFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)
+![Welcome](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFnN2dvODV6cDRycWIwNjR6M2VvcXFzanU2N3Z6Z2Fja3VvZDJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.webp)
 
 # Hello, I'm Joshua 👋
 
