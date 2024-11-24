@@ -1,4 +1,4 @@
-[Welcome](https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw)
+![Welcome](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 # Hello, I'm Joshua 👋
 
