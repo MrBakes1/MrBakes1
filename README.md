@@ -1,4 +1,4 @@
-![Welcome](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Welcome](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZyNXhlNnZqdmEzb2h5dDZwOW9hMmlnMzRuMDE3cnUybXN5cjFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)
 
 # Hello, I'm Joshua 👋
 
